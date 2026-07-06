@@ -48,7 +48,7 @@
     </table>
 
     <h2>Mạng xã hội</h2>
-    <a href="https://facebook.com/tenfacebookcuaban" target="_blank">
+    <a href="https://www.facebook.com/share/1GGyb2Ws1u/?mibextid=wwXIfr" target="_blank">
         Facebook của tôi
     </a>
 
